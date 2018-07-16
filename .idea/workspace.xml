@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf28bf6c-ab69-41f6-a999-1f082fd6c28e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/students/student_name_background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/students/student_name_index_profile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/students/student_name_profile.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/students/student_name.html" afterPath="$PROJECT_DIR$/students/ena_anicama.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ena_anicama.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ena_anicama.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/students/ena_anicama.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4935">
-              <caret line="329" column="40" lean-forward="false" selection-start-line="329" selection-start-column="34" selection-end-line="329" selection-end-column="40" />
+            <state relative-caret-position="570">
+              <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -32,6 +38,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>begin</find>
+      <find>LINKED</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -40,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/students/ena_anicama.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -120,12 +127,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531753746457</updated>
-      <workItem from="1531753747632" duration="1720000" />
+      <workItem from="1531753747632" duration="2053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1720000" />
+    <option name="totallyTimeSpent" value="2053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="532" y="23" width="1190" height="1027" extended-state="0" />
@@ -161,18 +168,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/students/ena_anicama.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="147" column="38" lean-forward="true" selection-start-line="147" selection-start-column="38" selection-end-line="147" selection-end-column="38" />
+        <state relative-caret-position="570">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/students/ena_anicama.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4935">
-          <caret line="329" column="40" lean-forward="false" selection-start-line="329" selection-start-column="34" selection-end-line="329" selection-end-column="40" />
+        <state relative-caret-position="67">
+          <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
           <folding />
         </state>
       </provider>
